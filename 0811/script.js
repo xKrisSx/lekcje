@@ -72,10 +72,8 @@ document.write(fn(array5) / array5.length)
 document.write("<br><br><br>")
 
 //
-// ZADANIE 6
+// ZADANIE 6*
 //
-
-
 
 function srednia(arr) {
     let a = 0
