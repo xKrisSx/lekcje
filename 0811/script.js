@@ -69,9 +69,13 @@ function fn(arr) {return arr.reduce((total, n) => total + n);}
 document.write("#6:<br>")
 document.write(fn(array5) / array5.length)
 
+document.write("<br><br><br>")
+
 //
 // ZADANIE 6
 //
+
+
 
 function srednia(arr) {
     let a = 0
@@ -80,4 +84,5 @@ function srednia(arr) {
     })
     return a / arr.length
 }
+document.write("#6*:<br>")
 document.write(srednia(array5))
